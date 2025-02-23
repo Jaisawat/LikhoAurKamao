@@ -1,0 +1,7 @@
+LikhoAurKamao/
+│── frontend/       → (React/Next.js Code रहेगा)
+│── backend/        → (Node.js/Express API रहेगा)
+│── docs/           → (Project Documentation)
+│── public/         → (Static Assets - Logo, Images)
+│── README.md       → (Project Description)
+│── .gitignore      → (Unwanted Files Ignore करने के लिए)
